@@ -9,6 +9,7 @@ This repository contains internal documentation for the Fresh Within™ website,
 - **Theme:** Hello Elementor (lightweight, minimalist theme built to work seamlessly with Elementor)
 - **Custom CSS:** Added via Appearance → Customize → Additional CSS
 - **SEO:** Titles, meta descriptions, and focus keyphrases configured per page using Yoast SEO plugin.
+- **Page & Template Maintenance:** Reorganised page and template structures to improve consistency and long-term maintainability
 
 ## Technologies & Permissions
 
