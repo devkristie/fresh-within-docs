@@ -33,9 +33,8 @@ This repository contains internal documentation for the Fresh Within™ website,
 - Terms & Conditions
 - Privacy Policy
 
-> Note: Pages are built with Elementor templates. The default Privacy Policy template cannot be edited by editors—only viewed or duplicated. A duplicate was created, and navigation links were updated to point to the editable version.
-
-> Note: The original Privacy Policy page must remain for legal reasons. A duplicate was created for editable design purposes, and the footer link now points to the duplicate. The Checkout Page privacy policy link currently points to the original page; client action is required to update this link.
+> Note: The main Privacy Policy page is now the live WordPress page. It is viewable but not directly editable with Elementor. A duplicate page remains available for editing and design adjustments as needed.  
+> Currently, all navigation links still point to the live Privacy Policy page rather than the editable duplicate.
 
 ## Notes
 
