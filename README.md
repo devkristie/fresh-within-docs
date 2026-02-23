@@ -5,7 +5,7 @@ This repository contains internal documentation for the Fresh Within™ website,
 ## Overview
 
 - **Website Purpose:** E-commerce platform for Fresh Within™ products, with informational pages, blog/articles, FAQs, and preorder functionality (currently active; standard purchase flow will replace preorder once products are in stock).
-- **Page Builder:** Elementor
+- **Page Builder:** Elementor Pro
 - **Theme:** Hello Elementor (lightweight, minimalist theme built to work seamlessly with Elementor)
 - **Custom CSS:** Added via Appearance → Customize → Additional CSS
 - **SEO:** Titles, meta descriptions, and focus keyphrases configured per page using Yoast SEO plugin.
@@ -14,7 +14,7 @@ This repository contains internal documentation for the Fresh Within™ website,
 ## Technologies & Permissions
 
 - **User Role:** Editor with Admin access (Design Admin)
-- **Technologies Used:** WordPress, Elementor, HTML, CSS
+- **Technologies Used:** WordPress, Elementor Pro, HTML, CSS
 - **Legal Notes:** All content, branding, and customizations (including Custom CSS) belong to **Rava Books Ltd / Fresh Within™**. WordPress core, themes, and plugin code remain the property of their respective developers.
 
 ## Pages
